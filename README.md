@@ -1,6 +1,6 @@
 # 🏋️ Haroon Hakimi
 
-**`Software Engineer`*
+**`Software Engineer`**
 
 Hello! My name is Haroon and I have a passion for crafting digital experiences that thrive on the internet.
 
