@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Hello! My name is Haroon and I have a passion for crafting digital experiences that thrive on the internet.
+Hello! My name is Haroon and I have a strong passion for developing web applications with a great user experience. I am driven by the thrill of overcoming obstacles and pushing the boundaries of what's possible. I thrive on solving complexities and transforming them into elegant solutions.
 
 I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone. I am also proud of my personal project, TimeBox, which is a sleek timeboxing app designed to enhance productivity.
 
